@@ -1,0 +1,9 @@
+C:\Users\artur\Desktop\lab4\bin\Debug\Lesson 6 Affine Transformation.exe
+C:\Users\artur\Desktop\lab4\bin\Debug\Lesson 6 Affine Transformation.pdb
+C:\Users\artur\Desktop\lab4\obj\Debug\Affine tr.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\lab4\obj\Debug\Lesson_6_Affine_Transformation.Form1.resources
+C:\Users\artur\Desktop\lab4\obj\Debug\Lesson_6_Affine_Transformation.Properties.Resources.resources
+C:\Users\artur\Desktop\lab4\obj\Debug\Affine tr.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\lab4\obj\Debug\Affine tr.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\lab4\obj\Debug\Lesson 6 Affine Transformation.exe
+C:\Users\artur\Desktop\lab4\obj\Debug\Lesson 6 Affine Transformation.pdb
